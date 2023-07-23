@@ -1,0 +1,10 @@
+h1,h3,h2 {
+    color:teal;
+    font-style: Bold;
+  }
+  button
+  {
+    background-color: peachpuff;
+    border-radius: 15%;
+    text-align: center;
+  }
